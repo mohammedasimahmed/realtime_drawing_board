@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* body {
+  background-color: gray;
+} */
+
+/* position: absolute;
+  margin-top: -5%;
+  border-radius: 999px;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(rgb(223, 214, 255) 70%, rgb(67, 41, 166) 100%);
+  filter: blur(9.375rem);
+  z-index: 1; */
